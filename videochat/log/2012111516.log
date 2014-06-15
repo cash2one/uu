@@ -1,0 +1,2 @@
+[2012-11-15 16:27:43:335129] [ERROR] user come in#0 Logger->error at [D:\videochat\code\web\hall_new.php:17]
+#1 HallController->run at [D:\videochat\code\web\hall_new.php:95]
